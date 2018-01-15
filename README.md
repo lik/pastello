@@ -16,7 +16,7 @@ You'll need a userstyle manager of some sort. Listed below are some possibilitie
 
 ### Font
 
-If you want to use Open Sans, download it [here](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans) and install it. Otherwise it'll default to some other sans-serif fonts.
+To use Open Sans, download it [here](https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans) and install it. Otherwise it'll default to some other sans-serif fonts.
 
 ### Userstyle
 
