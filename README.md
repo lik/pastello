@@ -21,3 +21,7 @@ If you want to use Open Sans, download it [here](https://fonts.google.com/specim
 ### Userstyle
 
 [Click here](https://userstyles.org/styles/154206/pastello) to install the userstyle itself.
+
+## Screenshot
+
+![screenshot](pastello.png)
