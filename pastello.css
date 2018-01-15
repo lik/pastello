@@ -1,0 +1,85 @@
+@-moz-document url-prefix("https://course-evaluation-reports.fas.harvard.edu") {
+* {
+    font-family: 'Open Sans Semibold', Helvetica, Arial, sans-serif !important;
+}
+body.fas {
+    background: #ECECD8 !important;
+    font-size: 16px;
+}
+body.fas #title {
+    background: #600 !important;
+}
+body.fas #header {
+    background: #600 !important;
+    border-bottom: 0px;
+}
+h1 {
+    border-bottom: 0px;
+    background-color: #D06261 !important;
+    color: #FFFFFF !important;
+    display: inline-block;
+    padding: .25rem 1.25rem;
+}
+h1:hover {
+    color: #D06261 !important;
+}
+ul.questionPicker li {
+    font-variant: none !important;
+}
+.helpLink {
+    background: #FFFFFF !important;
+    padding: 10px 8px 0px 0px;
+}
+.helpLink a {
+    background: #FFFFFF !important;
+    border: 0px !important;
+    font-variant: none;
+    font-weight: normal;
+    padding: 0px !important;
+}
+
+/* Comment this if you need the course planner and print buttons */
+.CoursePlanner,
+.print {
+    display: none !important;
+}
+#page-content {
+    background: #FFFFFF !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+}
+#reportContent {
+    background: #FFFFFF !important;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+#subHeader {
+    clear: left;
+    background: #d7e2ec;
+    padding: 5px 0px 5px 10px;
+    border: 0px;
+}
+#summaryStats {
+    font-size: 14px;
+}
+#tabNav {
+    margin-top: 50px;
+}
+#tabNav li {
+    text-align: center;
+    display: block;
+    float: left;
+    margin: 0px 3px;
+    background: none;
+    border: 0px;
+}
+::-moz-selection {
+    background-color: #D06261;
+    color: #FFFFFF;
+}
+::selection {
+    background-color: #D06261;
+    color: #FFFFFF;
+}
+}
