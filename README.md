@@ -1,5 +1,5 @@
 # pastello
-Custom userstyle for Harvard's course evaluations site. Changes include a more pastel color palette as well as font changes for increased readability.
+Custom userstyle for Harvard's course evaluations site. Changes include a more pastel color palette as well as a different font family for increased readability.
 
 ## Installation
 
