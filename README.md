@@ -25,3 +25,5 @@ To use Open Sans, download it [here](https://fonts.google.com/specimen/Open+Sans
 ## Screenshot
 
 ![screenshot](pastello.png)
+
+Compare it to [before the styling](before.png).
